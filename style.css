@@ -76,6 +76,7 @@ h2 {
 .btn-large {
   display: block;
   width: 100%;
+  border-radius: 10px;
 }
 
 .setting {
