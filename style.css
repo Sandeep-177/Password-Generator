@@ -76,9 +76,12 @@ h2 {
 .btn-large {
   display: block;
   width: 100%;
-  border-radius: 10px;
+  border-radius:10px;
 }
 
+.btn-large:hover{
+  background-color: #262673;
+}
 .setting {
   display: flex;
   justify-content: space-between;
